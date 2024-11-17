@@ -1,0 +1,4 @@
+in mapping you can have up to 8 castle you can name them what ever you want provided that it is present in the folder like the 1.aiv
+it could be any thing just change in the mapping ae will.
+
+If you have one aiv you can delete other "castle_8"    : "" and leave those your using

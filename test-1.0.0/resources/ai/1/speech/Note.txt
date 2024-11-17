@@ -1,0 +1,2 @@
+This is different from binks in that you want to have a different audio for each 34 of them. And you need to make it the same words
+in the text message as it is a audio file version of it.
