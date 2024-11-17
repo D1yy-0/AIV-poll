@@ -1,0 +1,992 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              rat:
+                - name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              snake:
+                - name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              pig:
+                - name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wolf:
+                - name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              saladin:
+                - name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              caliph:
+                - name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sultan:
+                - name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              richard:
+                - name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              frederick:
+                - name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              marshal:
+                - name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              abbot:
+                - name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: en
+        ai:
+          rat:
+            binks:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 1
+                  root: ucp/plugins/test-1.0.0/resources/ai/1/
+                  active: true
+          snake:
+            binks:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 2
+                  root: ucp/plugins/test-1.0.0/resources/ai/2/
+                  active: true
+          pig:
+            binks:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 3
+                  root: ucp/plugins/test-1.0.0/resources/ai/3/
+                  active: true
+          wolf:
+            binks:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 4
+                  root: ucp/plugins/test-1.0.0/resources/ai/4/
+                  active: true
+          saladin:
+            binks:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 5
+                  root: ucp/plugins/test-1.0.0/resources/ai/5/
+                  active: true
+          caliph:
+            binks:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 6
+                  root: ucp/plugins/test-1.0.0/resources/ai/6/
+                  active: true
+          sultan:
+            binks:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 7
+                  root: ucp/plugins/test-1.0.0/resources/ai/7/
+                  active: true
+          richard:
+            binks:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 8
+                  root: ucp/plugins/test-1.0.0/resources/ai/8/
+                  active: true
+          frederick:
+            binks:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 9
+                  root: ucp/plugins/test-1.0.0/resources/ai/9/
+                  active: true
+          phillip:
+            binks:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 10
+                  root: ucp/plugins/test-1.0.0/resources/ai/10/
+                  active: true
+          wazir:
+            binks:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 11
+                  root: ucp/plugins/test-1.0.0/resources/ai/11/
+                  active: true
+          emir:
+            binks:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 12
+                  root: ucp/plugins/test-1.0.0/resources/ai/12/
+                  active: true
+          nizar:
+            binks:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 13
+                  root: ucp/plugins/test-1.0.0/resources/ai/13/
+                  active: true
+          sheriff:
+            binks:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 14
+                  root: ucp/plugins/test-1.0.0/resources/ai/14/
+                  active: true
+          marshal:
+            binks:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 15
+                  root: ucp/plugins/test-1.0.0/resources/ai/15/
+                  active: true
+          abbot:
+            binks:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: 16
+                  root: ucp/plugins/test-1.0.0/resources/ai/16/
+                  active: true
+  plugins:
+    test-1.0.0:
+      config: {}
+meta:
+  version: 1.0.0
